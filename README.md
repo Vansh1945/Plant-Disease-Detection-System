@@ -14,15 +14,34 @@ This project is a plant disease detection system that analyzes plant leaf images
 ✅ Downloadable report in Word format
 
 
+
+
+
+
 ▶️ Run the Application
    streamlit run app.py
+
+
+
+
+
+
 
 🌍 Open in Browser
     http://localhost:8501
 
+
+
+
+
+
     
 📌 Example Usage:
+
 1️⃣ Upload a clear image of a plant leaf.
+
 2️⃣ System verifies if it is a valid plant leaf.
+
 3️⃣ Disease is detected, and a solution is provided.
+
 4️⃣ Download the diagnosis report in Word format.
