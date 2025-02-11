@@ -4,9 +4,13 @@ This project is a plant disease detection system that analyzes plant leaf images
 
 ⚡ Features:
 ✅ User-friendly web app using Streamlit
+
 ✅ Plant leaf validation (checks if the uploaded image is a valid leaf)
+
 ✅ Disease detection based on image brightness and color properties
+
 ✅ Home remedies for each disease
+
 ✅ Downloadable report in Word format
 
 
